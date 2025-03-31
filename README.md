@@ -31,10 +31,8 @@ smart-traffic-signal/
 - Install **Node.js** and **MongoDB**  
 - Create a `.env` file in `backend/` with:  
   ```
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/road_lights
-CORS_ORIGIN=*
-
+  MONGO_URI=mongodb://localhost:27017/road_lights
+  PORT=5000
   ```
 
 #### **📌 Installation & Running Backend**  
